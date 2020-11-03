@@ -1,4 +1,4 @@
-# protoc-go-grpc-docker
+# protoc-go-grpc-docker ![Docker](https://github.com/vvatanabe/protoc-go-grpc-docker/workflows/Docker/badge.svg)
 Protocol Buffers compilation for Go and gRPC
 
 ## Install
